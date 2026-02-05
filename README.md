@@ -66,4 +66,4 @@ This script runs the analysis, prints the comparison tables, and saves the resul
 
 ---
 
-*For detailed physics and equations, please refer to the [Project Report](docs/ProjectReport.pdf).*
+*For detailed physics and equations, please refer to the [Project Report](https://github.com/EmreSakarya/vertical-pipe-flow-analysis/blob/main/docs/vertical-pipe-flow-analysis.pdf)
